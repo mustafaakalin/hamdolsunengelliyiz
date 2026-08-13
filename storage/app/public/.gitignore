@@ -1,0 +1,7 @@
+*
+!.gitignore
+!images/
+images/*
+!images/abouts/
+images/abouts/*
+!images/abouts/me.jpg
